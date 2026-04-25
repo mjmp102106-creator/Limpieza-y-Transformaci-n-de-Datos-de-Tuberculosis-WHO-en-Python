@@ -26,7 +26,7 @@ Fuente: https://tidyr.tidyverse.org/reference/who.html
 
 ## ⚙️ Procesos Realizados
 
-### 🧹 Limpieza de Datos
+### Limpieza de Datos
 - Manejo de valores nulos
 - Estandarización de nombres de columnas
 - Conversión de tipos de datos
@@ -36,7 +36,7 @@ Fuente: https://tidyr.tidyverse.org/reference/who.html
 - Separación de variables embebidas (edad, género, tipo de caso)
 - Creación de variables limpias y analizables
 
-### 🔗 Integración de Datos
+### Integración de Datos
 - Unión de datasets (`who` + `population`)
 - Alineación por país y año
 - Generación de dataset final consolidado
